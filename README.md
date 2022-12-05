@@ -70,6 +70,10 @@ This is an example of how to list things you need to use the software and how to
 * Make sure you have all required packages installed
 * Run `run.py` with the files in the Resources folder
 
+## Results
+* NER Model
+
+
 ## Author
 Erandi del Angel
 
