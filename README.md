@@ -72,7 +72,8 @@ This is an example of how to list things you need to use the software and how to
 
 ## Results
 * NER Model
-
+The following graph show the loss and F1 Score for the train, validation and test set, using a 40% of the full dataset due to RAM issues.
+![NER_error](https://user-images.githubusercontent.com/63175363/205551823-1c54464d-7fd0-4a9a-bfab-d7938008044c.png)
 
 ## Author
 Erandi del Angel
