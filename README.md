@@ -42,9 +42,13 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   pip install flair
   ```
-* torch
+* 
   ```sh
-  pip install torch
+  pip install 
+  ```
+* transformers
+  ```sh
+  pip install transformers
   ```
 `requirements.txt` also has all packages required.
 
