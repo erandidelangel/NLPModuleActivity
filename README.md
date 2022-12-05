@@ -63,6 +63,8 @@ This is an example of how to list things you need to use the software and how to
   pip install googletrans
   ```
 `requirements.txt` also has all packages required.
+### Resources
+You can find the files used in this project in the Resources folder.
 
 ### Executing program
 
