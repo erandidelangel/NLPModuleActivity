@@ -54,9 +54,13 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   pip install wrapt
   ```
-* sklearn
+* scikit-learn
   ```sh
-  pip install sklearn
+  pip install scikit-learn
+  ```
+* googletrans
+  ```sh
+  pip install googletrans
   ```
 `requirements.txt` also has all packages required.
 
