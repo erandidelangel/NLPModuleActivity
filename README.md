@@ -54,6 +54,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   pip install wrapt
   ```
+* sklearn
+  ```sh
+  pip install sklearn
+  ```
 `requirements.txt` also has all packages required.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
