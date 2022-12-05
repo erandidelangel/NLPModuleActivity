@@ -4,9 +4,6 @@
   <ol>
     <li>
       <a href="#Módulo 3 NLP Module Project">Módulo 3 NLP Module Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -25,10 +22,22 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## Módulo 3 NLP Module Project
 The `run.py` generates results for 3 NLP activities.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- GETTING STARTED -->
+## Getting Started
 
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+This is an example of how to list things you need to use the software and how to install them.
+* nltk
+  ```sh
+  pip install nltk
+  ```
+`requirements.txt` also has all packages required.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
