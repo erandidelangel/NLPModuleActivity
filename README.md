@@ -27,11 +27,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+## Módulo 3 NLP Module Project
+The `run.py` generates results for 3 NLP activities.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
