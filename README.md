@@ -64,4 +64,13 @@ This is an example of how to list things you need to use the software and how to
   ```
 `requirements.txt` also has all packages required.
 
+### Executing program
+
+* Make sure you have all the files required in a same folder 
+* Make sure you have all required packages installed
+* Run `run.py` with the files in the Resources folder
+
+## Author
+Erandi del Angel
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
