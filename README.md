@@ -60,9 +60,11 @@ This is an example of how to list things you need to use the software and how to
   ```
 * googletrans
   ```sh
-  pip install googletrans
+  pip install googletrans==3.1.0a0
   ```
+  
 `requirements.txt` also has all packages required.
+
 ### Resources
 You can find the files used in this project in the Resources folder.
 
